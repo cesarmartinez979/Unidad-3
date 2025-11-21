@@ -1,0 +1,5 @@
+1|pantalon|500|ropa
+2|tenis|2300|ropa
+3|xbox|6000|electronica
+4|iphoone 17|8000|electronica
+5|perfume|3000|belleza
